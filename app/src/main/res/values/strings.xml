@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">emgFromTXT</string>
+    <string name="start_lead1">Start lead1</string>
+    <string name="start_lead2">Start lead2</string>
+    <string name="title_main">Load EMG form txt</string>
+</resources>
